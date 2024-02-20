@@ -1,1 +1,1 @@
-This is basic we page for adding bubbles css
+This is a basic web page for adding bubbles css
